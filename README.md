@@ -1,4 +1,4 @@
-# Welcome to the Data Structures (DS) repository!
+# Welcome to the Data Science (DS) repository!
 This repo contains a collection of practicals related to core Data Science concepts. 
 It's designed to be clean, beginner-friendly, and easy to navigate—perfect for students, learners, and anyone who wants to revise DS fundamentals with working code.
 
